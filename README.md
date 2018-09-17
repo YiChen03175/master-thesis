@@ -63,11 +63,11 @@ There are two folders in mat, *KFAC* and *KFELBM*. <br>
 
 *KFAC*
  
-- [KFAC_film.m](mat/KFAC_film.m) <br>
+- [KFAC_film.m](mat/KFAC/KFAC_film.m) <br>
 
 > main file for creating .avi film.
 
-- [KFAC.m](mat/KFAC.m) <br>
+- [KFAC.m](mat/KFAC/KFAC.m) <br>
 
 > function file for updating membership function in differential method.
 
@@ -75,15 +75,15 @@ There are two folders in mat, *KFAC* and *KFELBM*. <br>
 
  *KFELBM*
  
-- [KFELBM_film.m](mat/KFELBM_film.m)
+- [KFELBM_film.m](mat/KFELBM/KFELBM_film.m)
 
 > main file for creating .avi film.
 
-- [Force.m](mat/Force.m)
+- [Force.m](mat/KFELBM/Force.m)
 
 > function file for updating external force from fuzzy energy.
 
-- [LBM.m](mat/LBM.m)
+- [LBM.m](mat/KFELBM/LBM.m)
 
 > function file for updating membership function by using lattice boltzmann method
 
