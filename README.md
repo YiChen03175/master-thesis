@@ -16,6 +16,8 @@ Our research provides the algorithm which solve level set equation of kernel fuz
 the efficiency of algorithm by using graphics processing unit.<br>
 
 Key words: active contour model, fuzzy clustering, lattice boltzmann method, level set method, kernel
+<br>
+<br>
 ## Details
 
 There are three main files in this repository.
