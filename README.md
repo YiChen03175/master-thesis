@@ -56,7 +56,7 @@ You can find a more elegant contour in my thesis by using matlab for visualizati
 
 ## Visualization
 
-For data visualization, we use MATLAB R2016a to film the membership function varying with time to show how the level set function change implicitly in KFAC and KFELBM algorithm. The KFELBM run in a valid CPU version, just like KFELBM.cpp. The matlab code is in the [mat](./mat) folder.
+For data visualization, we use MATLAB R2016a to film the membership function varying with time to show how the level set function change implicitly in KFAC and KFELBM algorithm. The KFELBM run in a valid CPU version, just like KFELBM_cpu.cpp. The matlab code is in the [mat](./mat) folder.
 
 ### Files
 There are two folders in mat, *KFAC* and *KFELBM*. <br>
