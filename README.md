@@ -23,16 +23,16 @@ Key words: active contour model, fuzzy clustering, lattice boltzmann method, lev
 There are three main files in this repository.
 ### Implement on CPU
 
-- KFAC.cpp <br>
+- [KFAC.cpp](KFAC.cpp) <br>
 
 > This file implement *[Novel fuzzy active contour model with kernel metric for image segmentation (KFAC)](https://www.sciencedirect.com/science/article/pii/S1568494615002951)* in differential method. <br>
 
-- KFELBM_cpu.cpp <br>
+- [KFELBM_cpu.cpp](KFELBM_cpu.cpp) <br>
 
 > This file implement my thesis *Kerenl Fuzzy Active Contour using Lattice Boltzmann Method (KFELBM)* in CPU version.
 
 ### Implement on GPU
-- KFELBM_gpu.cu
+- [KFELBM_gpu.cu](KFELBM_gpu.cu)
 
 > This file implement my thesis *Kerenl Fuzzy Active Contour using Lattice Boltzmann Method (KFELBM)* in GPU version using CUDA.
 
