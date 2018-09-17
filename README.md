@@ -34,6 +34,8 @@ There are three main files in this repository.
 
 > This file implement my thesis *Kerenl Fuzzy Active Contour using Lattice Boltzmann Method (KFELBM)* in GPU version using CUDA.
 
+<br>
+
 ## Result
 
 Here are some results from my thesis. If you want to know more details, you can find them in [my thesis](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040125380%22.&searchmode=basic). 
