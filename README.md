@@ -68,6 +68,7 @@ There are two folders in mat, *KFAC* and *KFELBM*. <br>
 > function file for updating membership function in differential method.
 
 <br>
+
  *KFELBM*
  
 - KFELBM_film.m
